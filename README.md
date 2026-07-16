@@ -32,38 +32,37 @@
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
-## 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,javascript"/>
-</p>
-
-## 🎨 Frontend
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,javascript"/>
 </p>
 
-## ⚙️ Backend
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
+</p>
+
+### ⚙ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-## 🗄️ Database
+### 🗄 Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-## 🛠️ Tools
+### 🛠 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
-
 ---
 
 # 📊 GitHub Stats
