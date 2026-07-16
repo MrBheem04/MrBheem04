@@ -12,19 +12,19 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech Student @ **YOUR_COLLEGE_NAME**
+🎓 **B.Tech Student** @ **Parul University**
 
-📚 Branch: **YOUR_BRANCH**
+📚 **Branch:** CSE-AI
 
-🎯 Graduation Year: **YOUR_GRAD_YEAR**
+🎯 **Graduation Year:** 2027
 
-📍 India 🇮🇳
+📍 **India 🇮🇳**
 
-💡 Passionate about Full Stack Web Development
+💡 Passionate about **Full Stack Web Development**
 
-🌱 Currently learning Advanced MERN Stack & DSA
+🌱 Currently learning **Advanced MERN Stack & DSA**
 
 💻 Love solving coding problems and building real-world projects
 
@@ -32,33 +32,33 @@
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-### 💻 Languages
+## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,javascript,python"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,javascript"/>
 </p>
 
-### 🎨 Frontend
+## 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind"/>
 </p>
 
-### ⚙ Backend
+## ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-### 🗄 Database
+## 🗄️ Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-### 🛠 Tools
+## 🛠️ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
@@ -81,9 +81,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=MrBheem04&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -91,14 +89,12 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=MrBheem04&theme=tokyonight&no-frame=true&margin-w=15"/>
-
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -122,37 +118,37 @@
 
 ---
 
-## 🚀 Current Focus
+# 🚀 Current Focus
 
 - 🌱 Learning Advanced MERN Stack
-- 💻 Solving DSA Problems Daily (LeetCode + GFG)
-- 🚀 Building Full Stack Projects
+- 💻 Solving DSA Problems Daily (LeetCode + GeeksforGeeks)
+- 🚀 Building Full Stack MERN Projects
 - 📚 Preparing for Software Developer Placements
-- ⚡ Improving Problem Solving Skills
+- ⚡ Improving Problem-Solving Skills
 
 ---
 
-## 📈 Coding Profiles
+# 📈 Coding Profiles
 
 <p align="center">
 
 <a href="https://github.com/MrBheem04">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://leetcode.com/u/mr_Bheem_04/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/kodidelabheemreddy04">
-<img src="https://img.shields.io/badge/GFG-Profile-green?style=for-the-badge&logo=geeksforgeeks"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 💡 Quote
+# 💡 Quote
 
 > **"Keep Learning • Keep Building • Keep Growing 🚀"**
 
