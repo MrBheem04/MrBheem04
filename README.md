@@ -82,14 +82,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MrBheem04&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
