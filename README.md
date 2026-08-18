@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kodidela Bheem Reddy</h1>
 
-<h3 align="center">🚀 Passionate Developer | MERN Stack | DSA Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast;Always+Learning+New+Things!;Welcome+to+My+GitHub+Profile!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast;Problem+Solver;Always+Learning+New+Things!"/>
 </p>
 
 <p align="center">
@@ -12,11 +12,11 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 🎓 **B.Tech Student** @ **Parul University**
 
-📚 **Branch:** CSE-AI
+📚 **Branch:** CSE - AI
 
 🎯 **Graduation Year:** 2027
 
@@ -26,46 +26,78 @@
 
 🌱 Currently learning **Advanced MERN Stack & DSA**
 
-💻 Love solving coding problems and building real-world projects
+💻 Solving coding problems on **LeetCode & GeeksforGeeks**
 
-⚡ Always exploring new technologies
+🚀 Building real-world **Full Stack Projects**
+
+⚡ Always exploring new technologies and improving my problem-solving skills
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,javascript"/>
-</p>
-
-### 🎨 Frontend
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,c,javascript" />
 </p>
 
-### ⚙ Backend
+### 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 </p>
 
-### 🗄 Database
+### ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🛠 Tools
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
+
+### 🧰 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
 ---
 
-# 📊 GitHub Stats
+## 🚀 Featured Projects
+
+### 💍 Wedding Management System
+
+A full-stack web application designed to simplify wedding event management, including event-related features and user interactions.
+
+**Tech:** Python | Flask | MongoDB | HTML | CSS | JavaScript
+
+🔗 **Repository:**
+https://github.com/MrBheem04/Wedding_Management_System
+
+---
+
+### 🏡 Wanderlust
+
+A full-stack accommodation/listing platform inspired by modern travel applications.
+
+**Tech:** Node.js | Express.js | MongoDB | EJS | Bootstrap
+
+**Features:**
+
+* 🏠 Create and manage listings
+* 🔍 View listing details
+* 🗄️ MongoDB database integration
+* 🌐 Dynamic EJS pages
+* 📱 Responsive UI
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrBheem04&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -74,15 +106,42 @@
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=MrBheem04&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=MrBheem04&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🧠 Problem Solving
+
+<p align="center">
+
+<a href="https://leetcode.com/u/mr_Bheem_04/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/kodidelabheemreddy04">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🎯 Current Focus
+
+* 🌱 Learning **Advanced MERN Stack**
+* 💻 Solving **DSA Problems Daily**
+* 🚀 Building **Full Stack Projects**
+* 🧠 Improving **Problem-Solving Skills**
+* 📚 Preparing for **Software Developer Placements**
+* 🔥 Maintaining consistency on **LeetCode & GitHub**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -106,37 +165,7 @@
 
 ---
 
-# 🚀 Current Focus
-
-- 🌱 Learning Advanced MERN Stack
-- 💻 Solving DSA Problems Daily (LeetCode + GeeksforGeeks)
-- 🚀 Building Full Stack MERN Projects
-- 📚 Preparing for Software Developer Placements
-- ⚡ Improving Problem-Solving Skills
-
----
-
-# 📈 Coding Profiles
-
-<p align="center">
-
-<a href="https://github.com/MrBheem04">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/u/mr_Bheem_04/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/kodidelabheemreddy04">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💡 Quote
+## 💡 Developer Quote
 
 > **"Keep Learning • Keep Building • Keep Growing 🚀"**
 
@@ -145,5 +174,5 @@
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
 <p align="center">
-If you like my work, don't forget to ⭐ my repositories!
+  If you like my work, don't forget to ⭐ my repositories!
 </p>
