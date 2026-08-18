@@ -80,15 +80,33 @@
 
 ---
 
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180"
-       src="https://YOUR-VERCEL-APP.vercel.app/api?username=MrBheem04&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=MrBheem04&show_icons=true&theme=tokyonight&hide_border=true"
+  />
 
-  <img height="180"
-       src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=MrBheem04&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBheem04&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=MrBheem04&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
 
 ---
 
