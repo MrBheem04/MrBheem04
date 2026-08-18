@@ -68,25 +68,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 💍 Wedding Management System
-
-A full-stack web application designed to simplify wedding event management, including event-related features and user interactions.
-
-**Tech:** Python | Flask | MongoDB | HTML | CSS | JavaScript
-
-🔗 **Repository:**
-https://github.com/MrBheem04/Wedding_Management_System
-
----
-
-### 🏡 Wanderlust
-
-A full-stack accommodation/listing platform inspired by modern travel applications.
-
-**Tech:** Node.js | Express.js | MongoDB | EJS | Bootstrap
-
 **Features:**
 
 * 🏠 Create and manage listings
@@ -100,8 +81,11 @@ A full-stack accommodation/listing platform inspired by modern travel applicatio
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrBheem04&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrBheem04&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrBheem04&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrBheem04&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 
 ---
