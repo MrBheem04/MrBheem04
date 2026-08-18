@@ -83,18 +83,12 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=MrBheem04&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-  />
+  <img height="180"
+       src="https://YOUR-VERCEL-APP.vercel.app/api?username=MrBheem04&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBheem04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-  />
+  <img height="180"
+       src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=MrBheem04&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
 
 ---
 
